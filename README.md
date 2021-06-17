@@ -54,7 +54,7 @@ Create local folders as mount points
 Use 
 ```
 % rclone mount --daemon remote:<yourbucket1> <yourlocalbucket1>
-% rclone mount --daemon remote:<yourbucket1> <yourlocalbucket1>
+% rclone mount --daemon remote:<yourbucket2> <yourlocalbucket2>
 ```
 to mount your buckets to your local folders. The `--daemon` option prevents rclone from running in the foreground.
 
