@@ -4,10 +4,11 @@ This tutorial describes how to mount a Google Cloud Storage (GCS) bucket on Appl
 
 ## Get `rclone`
 
-Download rclone binary for Apple's ARM architecture on the rclone download page. Choose the 64 bit ARM version for Apple M1.
+Download `rclone` binary for Apple's ARM architecture on the `rclone` download page. Choose the 64 bit ARM version for Apple M1.
 https://rclone.org/downloads/
 
 Unpack and copy the binary to a typical folder, e.g., 
+
 `/usr/local/bin/`
 
 Check that you see the binary
@@ -27,7 +28,7 @@ Go to `System Preferences` and allow `rclone`
 
 ## Configure `rclone`
 
-Follow the steps on rclone homepage to configure rclone for GCS buckets. Call
+Follow the steps on `rclone` homepage to configure rclone for GCS buckets. Call
 
 `% rclone config`
 
