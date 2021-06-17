@@ -18,7 +18,7 @@ Check that you see the binary
 ```
 
 
-Enable `rclone` by, e.g., checking the version
+Enable `rclone`, e.g., by checking the version
 
 `% rclone version`
 
