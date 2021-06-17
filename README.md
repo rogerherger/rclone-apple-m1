@@ -47,7 +47,7 @@ Check that your configuration is working properly and you can access your bucket
 
 Create local folders as mount points
 ```
-% mkdir <youlocalbucket1>
+% mkdir <yourlocalbucket1>
 % mkdir <yourlocalbucket2>
 ```
 
